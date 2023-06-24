@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 pydantic
-pickle5
+pickle
 scikit-learn
 numpy
 transformers

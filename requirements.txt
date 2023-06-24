@@ -1,4 +1,4 @@
-https://download.pytorch.org/whl/cu118transformers==3.0.2
+torch torchvision torchaudio
 numpy==1.19.1
 flask
 joblib==0.16.0

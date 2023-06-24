@@ -2,5 +2,5 @@
 torch==1.13.0+cpu
 torchvision==0.1.6
 transformers==2.5.1
-tokenizers== 0.6.0
+tokenizers== 0.5.2
 flask==2.0.1

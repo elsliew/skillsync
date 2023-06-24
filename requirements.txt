@@ -1,7 +1,7 @@
 -f https://download.pytorch.org/whl/torch_stable.html 
-torch==1.13.0+cpu
+torch
 -f https://download.pytorch.org/whl/torch_stable.html
-torchvision==0.15.0+cpu
+torchvision
 transformers==3.0.2
 numpy==1.19.1
 flask

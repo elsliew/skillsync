@@ -1,4 +1,5 @@
-https://download.pytorch.org/whl/cpu/torch-1.9.0%2Bcpu-cp36-cp36m-win_amd64.whl
-https://download.pytorch.org/whl/cpu/torchvision-0.10.0%2Bcpu-cp36-cp36m-win_amd64.whl
+-f https://download.pytorch.org/whl/torch_stable.html
+torch==1.6.0+cpu
+torchvision==0.7.0+cpu
 transformers==4.9.2
 flask==2.0.1

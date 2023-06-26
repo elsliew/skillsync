@@ -4,3 +4,5 @@ torchvision==0.1.6
 transformers
 tokenizers
 flask==2.0.1
+fastapi
+uvicorn

@@ -1,6 +1,6 @@
 -f https://download.pytorch.org/whl/torch_stable.html
 torch==1.13.0+cpu
 torchvision==0.1.6
-transformers==2.5.1
-tokenizers== 0.5.2
+transformers
+tokenizers
 flask==2.0.1

@@ -5,4 +5,4 @@ transformers
 tokenizers
 flask==2.0.1
 fastapi
-uvicorn
+gunicorn
